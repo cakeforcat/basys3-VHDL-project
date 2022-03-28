@@ -1,0 +1,24 @@
+Copyright 1986-2021 Xilinx, Inc. All Rights Reserved.
+-----------------------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2021.2 (win64) Build 3367213 Tue Oct 19 02:48:09 MDT 2021
+| Date         : Mon Mar 28 16:36:16 2022
+| Host         : HALALSUCCESOR running 64-bit major release  (build 9200)
+| Command      : upgrade_project -migrate_output_products
+| Project_Path : C:/Users/cakef/Documents/GitHub/basys3-VHDL-project/display translator/VHDL_Project/VHDL_Project.xpr
+-----------------------------------------------------------------------------------------------------------------------------------
+
+Project Status Summary
+
+1. Project IP Status
+--------------------
+This project contains 0 IP and 0 Block Designs.
+
+
+1.1 Project IP Instances
++--+-------------------------+-------------------------------------+-------------------------------------+
+| Instance | Status                  | Reason                              | Recommendation                      |
+| Name |                         |                                     |                                     |
++--+-------------------------+-------------------------------------+-------------------------------------+
+
+
+

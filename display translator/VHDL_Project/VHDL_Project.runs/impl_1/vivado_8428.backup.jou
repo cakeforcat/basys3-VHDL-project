@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2020.1 (64-bit)
+# SW Build 2902540 on Wed May 27 19:54:49 MDT 2020
+# IP Build 2902112 on Wed May 27 22:43:36 MDT 2020
+# Start of session at: Fri Mar 25 10:46:16 2022
+# Process ID: 8428
+# Current directory: C:/Users/fmb20179/Desktop/VHDL_Project/VHDL_Project.runs/impl_1
+# Command line: vivado.exe -log display_test.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source display_test.tcl -notrace
+# Log file: C:/Users/fmb20179/Desktop/VHDL_Project/VHDL_Project.runs/impl_1/display_test.vdi
+# Journal file: C:/Users/fmb20179/Desktop/VHDL_Project/VHDL_Project.runs/impl_1\vivado.jou
+#-----------------------------------------------------------
+source display_test.tcl -notrace

@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Vivado v2021.2 (64-bit)
+# SW Build 3367213 on Tue Oct 19 02:48:09 MDT 2021
+# IP Build 3369179 on Thu Oct 21 08:25:16 MDT 2021
+# Start of session at: Mon Mar 28 16:36:33 2022
+# Process ID: 2528
+# Current directory: C:/Users/cakef/Documents/GitHub/basys3-VHDL-project/display translator/VHDL_Project
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent4508 C:\Users\cakef\Documents\GitHub\basys3-VHDL-project\display translator\VHDL_Project\VHDL_Project.xpr
+# Log file: C:/Users/cakef/Documents/GitHub/basys3-VHDL-project/display translator/VHDL_Project/vivado.log
+# Journal file: C:/Users/cakef/Documents/GitHub/basys3-VHDL-project/display translator/VHDL_Project\vivado.jou
+# Running On: HALALSUCCESOR, OS: Windows, CPU Frequency: 2894 MHz, CPU Physical cores: 16, Host memory: 17042 MB
+#-----------------------------------------------------------
+start_gui
+open_project {C:/Users/cakef/Documents/GitHub/basys3-VHDL-project/display translator/VHDL_Project/VHDL_Project.xpr}
