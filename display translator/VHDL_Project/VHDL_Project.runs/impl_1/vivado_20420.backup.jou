@@ -1,0 +1,13 @@
+#-----------------------------------------------------------
+# Vivado v2021.2 (64-bit)
+# SW Build 3367213 on Tue Oct 19 02:48:09 MDT 2021
+# IP Build 3369179 on Thu Oct 21 08:25:16 MDT 2021
+# Start of session at: Mon Mar 28 20:33:10 2022
+# Process ID: 20420
+# Current directory: C:/Users/cakef/Documents/GitHub/basys3-VHDL-project/display translator/VHDL_Project/VHDL_Project.runs/impl_1
+# Command line: vivado.exe -log display.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source display.tcl -notrace
+# Log file: C:/Users/cakef/Documents/GitHub/basys3-VHDL-project/display translator/VHDL_Project/VHDL_Project.runs/impl_1/display.vdi
+# Journal file: C:/Users/cakef/Documents/GitHub/basys3-VHDL-project/display translator/VHDL_Project/VHDL_Project.runs/impl_1\vivado.jou
+# Running On: HALALSUCCESOR, OS: Windows, CPU Frequency: 2894 MHz, CPU Physical cores: 16, Host memory: 17042 MB
+#-----------------------------------------------------------
+source display.tcl -notrace

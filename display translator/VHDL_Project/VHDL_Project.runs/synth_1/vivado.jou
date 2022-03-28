@@ -1,12 +1,13 @@
 #-----------------------------------------------------------
-# Vivado v2020.1 (64-bit)
-# SW Build 2902540 on Wed May 27 19:54:49 MDT 2020
-# IP Build 2902112 on Wed May 27 22:43:36 MDT 2020
-# Start of session at: Fri Mar 25 10:52:32 2022
-# Process ID: 5888
-# Current directory: C:/Users/fmb20179/Desktop/VHDL_Project/VHDL_Project.runs/synth_1
-# Command line: vivado.exe -log display_test.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source display_test.tcl
-# Log file: C:/Users/fmb20179/Desktop/VHDL_Project/VHDL_Project.runs/synth_1/display_test.vds
-# Journal file: C:/Users/fmb20179/Desktop/VHDL_Project/VHDL_Project.runs/synth_1\vivado.jou
+# Vivado v2021.2 (64-bit)
+# SW Build 3367213 on Tue Oct 19 02:48:09 MDT 2021
+# IP Build 3369179 on Thu Oct 21 08:25:16 MDT 2021
+# Start of session at: Mon Mar 28 20:38:10 2022
+# Process ID: 30144
+# Current directory: C:/Users/cakef/Documents/GitHub/basys3-VHDL-project/display translator/VHDL_Project/VHDL_Project.runs/synth_1
+# Command line: vivado.exe -log display.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source display.tcl
+# Log file: C:/Users/cakef/Documents/GitHub/basys3-VHDL-project/display translator/VHDL_Project/VHDL_Project.runs/synth_1/display.vds
+# Journal file: C:/Users/cakef/Documents/GitHub/basys3-VHDL-project/display translator/VHDL_Project/VHDL_Project.runs/synth_1\vivado.jou
+# Running On: HALALSUCCESOR, OS: Windows, CPU Frequency: 2894 MHz, CPU Physical cores: 16, Host memory: 17042 MB
 #-----------------------------------------------------------
-source display_test.tcl -notrace
+source display.tcl -notrace

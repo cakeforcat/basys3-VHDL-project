@@ -39,8 +39,7 @@ entity unsigned_to_display is
            CD : out STD_LOGIC;
            CE : out STD_LOGIC;
            CF : out STD_LOGIC;
-           CG : out STD_LOGIC;
-           DP : out STD_LOGIC);
+           CG : out STD_LOGIC);
 end unsigned_to_display;
 
 architecture Behavioral of unsigned_to_display is
@@ -62,7 +61,6 @@ begin
         CE<='0';
         CF<='0';
         CG<='1';
-        DP<='1';
         when 1 =>
         CA<='1';
         CB<='0';
@@ -71,7 +69,6 @@ begin
         CE<='1';
         CF<='1';
         CG<='1';
-        DP<='1';
         when 2 =>
         CA<='0';
         CB<='0';
@@ -80,7 +77,6 @@ begin
         CE<='0';
         CF<='1';
         CG<='0';
-        DP<='1';
         when 3 =>
         CA<='0';
         CB<='0';
@@ -89,7 +85,6 @@ begin
         CE<='1';
         CF<='1';
         CG<='0';
-        DP<='1';
         when 4 =>
         CA<='1';
         CB<='0';
@@ -98,7 +93,6 @@ begin
         CE<='1';
         CF<='0';
         CG<='0';
-        DP<='1';
         when 5 =>
         CA<='0';
         CB<='1';
@@ -107,7 +101,6 @@ begin
         CE<='1';
         CF<='0';
         CG<='0';
-        DP<='1';
         when 6 =>
         CA<='0';
         CB<='1';
@@ -116,7 +109,6 @@ begin
         CE<='0';
         CF<='0';
         CG<='0';
-        DP<='1';
         when 7 =>
         CA<='0';
         CB<='0';
@@ -125,7 +117,6 @@ begin
         CE<='1';
         CF<='1';
         CG<='1';
-        DP<='1';
         when 8 =>
         CA<='0';
         CB<='0';
@@ -134,7 +125,6 @@ begin
         CE<='0';
         CF<='0';
         CG<='0';
-        DP<='1';
         when 9 =>
         CA<='0';
         CB<='0';
@@ -143,7 +133,6 @@ begin
         CE<='1';
         CF<='0';
         CG<='0';
-        DP<='1';
         when others =>
         CA<='1';
         CB<='1';
@@ -151,8 +140,8 @@ begin
         CD<='1';
         CE<='1';
         CF<='1';
-        CG<='1';
-        DP<='0';
+        CG<='0';
     end case;
+    
 end process;
 end Behavioral;
