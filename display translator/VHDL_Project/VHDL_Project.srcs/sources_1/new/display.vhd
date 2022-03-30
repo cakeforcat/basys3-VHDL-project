@@ -49,7 +49,7 @@ end display;
 architecture Behavioral of display is
 
 -- constants 
-constant disp_max_count : integer := 100000;    -- must count to this number to divide clock frequency from 100MHz to 1kHz.
+constant disp_max_count : integer := 50000;    -- must count to this number to divide clock frequency from 100MHz to 1kHz.
 constant led_max_count  : integer := 6250000;    -- must count to this number to divide clock frequency from 100MHz to 8Hz.
 
 -- internal signals

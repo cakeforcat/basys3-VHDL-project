@@ -1,7 +1,7 @@
 Copyright 1986-2021 Xilinx, Inc. All Rights Reserved.
 -------------------------------------------------------------------------------------------------------------------------------------------
 | Tool Version     : Vivado v.2021.2 (win64) Build 3367213 Tue Oct 19 02:48:09 MDT 2021
-| Date             : Wed Mar 30 15:23:32 2022
+| Date             : Wed Mar 30 17:41:43 2022
 | Host             : HALALSUCCESOR running 64-bit major release  (build 9200)
 | Command          : report_power -file display_power_routed.rpt -pb display_power_summary_routed.pb -rpx display_power_routed.rpx
 | Design           : display
@@ -53,12 +53,12 @@ Table of Contents
 | On-Chip        | Power (W) | Used     | Available | Utilization (%) |
 +----------------+-----------+----------+-----------+-----------------+
 | Clocks         |    <0.001 |        3 |       --- |             --- |
-| Slice Logic    |    <0.001 |      107 |       --- |             --- |
-|   LUT as Logic |    <0.001 |       39 |     20800 |            0.19 |
-|   Register     |    <0.001 |       48 |     41600 |            0.12 |
-|   CARRY4       |    <0.001 |       11 |      8150 |            0.13 |
+| Slice Logic    |    <0.001 |      104 |       --- |             --- |
+|   LUT as Logic |    <0.001 |       38 |     20800 |            0.18 |
+|   Register     |    <0.001 |       47 |     41600 |            0.11 |
+|   CARRY4       |    <0.001 |       10 |      8150 |            0.12 |
 |   Others       |     0.000 |        2 |       --- |             --- |
-| Signals        |     0.001 |       95 |       --- |             --- |
+| Signals        |     0.001 |       93 |       --- |             --- |
 | I/O            |     0.091 |       31 |       106 |           29.25 |
 | Static Power   |     0.072 |          |           |                 |
 | Total          |     0.166 |          |           |                 |
